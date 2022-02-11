@@ -21,7 +21,7 @@ Contribution features such as:
 - Number of tourists
 - which mode of payment for tourism service
 
-After building the model, we can inspect the model interpretability using LIME or SHAP to identify the greatest features that explain increase of cost per tour.
+After building the model, we can inspect the model interpretability using `Features importance` to identify the greatest features that explain increase of cost per tour.
 
 
 ## PART B: EXPLORATORY DATA ANALYSIS(EDA)
