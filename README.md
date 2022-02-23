@@ -50,3 +50,6 @@ The notebook to the task can be found [here](https://github.com/Tonyloyt/Tourism
 Arguably the most critical component. This is where your client sees the value of the work you have been doing. For this, I prepared an executive summary slide detailing the findings, insights and recommendations.
 
 The presentation can be found on this [slide](https://github.com/Tonyloyt/Tourism-Expenditure-in-Tanzania-Analysis/blob/main/Report/Tanzania%20Tourism%20Expenditure%20Prediction%20Challenge%202020.pdf).
+
+
+![End Banner](https://github.com/Tonyloyt/My_flutter_path/blob/main/images/profile%20banner.png)
